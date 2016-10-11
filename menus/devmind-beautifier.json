@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Devmind Beautifier",
+        "command": "devmind-beautifier:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Devmind Beautifier",
+          "submenu": [
+            {
+              "label": "Beautify",
+              "command": "devmind-beautifier:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
