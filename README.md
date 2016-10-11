@@ -2,6 +2,9 @@
 
 Devmind.io PHP beautifier now in Atom
 
-Makes your php code look better. 
+Makes your php code look better. Indents the code in Allman style. Available only for php at the moment.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+This package uses the https://devmind.io Api.
+
+![screen1](https://cloud.githubusercontent.com/assets/20716798/19285847/ff876b82-8fd1-11e6-8cca-c2cc767f99a8.png)
+![screen2](https://cloud.githubusercontent.com/assets/20716798/19285848/ff8ae9d8-8fd1-11e6-804c-12e8d7a06ddc.png)
