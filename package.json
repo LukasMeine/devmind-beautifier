@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "devmind-beautifier:toggle"
   },
-  "repository": "https://github.com/atom/devmind-beautifier",
+  "repository": "https://github.com/LukasMeine/devmind-beautifier",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
