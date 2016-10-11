@@ -1,6 +1,7 @@
 # Devmind-beautifier atom package
-## Devmind.io PHP beautifier now in Atom
 
-A php beautifier package 
+Devmind.io PHP beautifier now in Atom
+
+Makes your php code look better. 
 
 ![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
