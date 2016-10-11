@@ -1,3 +1,6 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/badges/build.png?b=master)](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/build-status/master)
+
 # Devmind-beautifier atom package
 
 Devmind.io PHP beautifier now in Atom
