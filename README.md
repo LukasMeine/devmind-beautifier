@@ -1,4 +1,7 @@
-![code2](https://cloud.githubusercontent.com/assets/20716798/19286874/c1c9d9ca-8fd5-11e6-93da-ab5dcfb6d6dc.png)
+<h1>![](https://cloud.githubusercontent.com/assets/20716798/19286874/c1c9d9ca-8fd5-11e6-93da-ab5dcfb6d6dc.png)<sup></sup><sub><sub><sup></h1></sup></sub></sub>
+<br>
+
+
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/badges/build.png?b=master)](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/build-status/master)
