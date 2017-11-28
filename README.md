@@ -10,15 +10,17 @@ Makes your code look better. Available for php, javascript, golang, json, scss, 
 
 ## Installation
 
-Installation is not needed because this package uses the https://devmind.io API, which uses the [universal code beautifier](https://github.com/LukasMeine/universal-code-beautifer) project, that's why you don't need to configure anything.
+**Installation is not needed** because this package uses the [Devmind.io](https://devmind.io) API, which uses the [universal code beautifier](https://github.com/LukasMeine/universal-code-beautifer) project, that's why you don't need to configure anything.
 
-but if you want to host it yourself, go to https://github.com/LukasMeine/universal-code-beautifer and follow the instructions.
+But if you want to host it yourself, go to https://github.com/LukasMeine/universal-code-beautifer and follow the instructions.
 
-after you have it up and running, you will need to change the url that devmind beautifier uses to serve your beautified files
+After you have it up and running, you will need to change the url that devmind beautifier uses to serve your beautified files.
 
-so, go to the *lib/assets/devmind-beautifier.js* file and replace the following line of code for your own url
+So, go to the [lib/assets/devmind-beautifier.js](lib/assets/devmind-beautifier.js) file and replace the following line of code for your own url
 
-    var url = "https://beautifier.devmind.io/format";
+```
+var url = "https://beautifier.devmind.io/format";
+```
 
 Proudly released under MIT license
 
