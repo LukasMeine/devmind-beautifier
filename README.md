@@ -4,11 +4,21 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/badges/build.png?b=master)](https://scrutinizer-ci.com/g/LukasMeine/devmind-beautifier/build-status/master)
 
-## Devmind.io PHP beautifier now in Atom
+## Devmind.io code beautifier now in Atom
 
-Makes your php code look better. Indents the code in Allman style. Available only for php at the moment.
+Makes your code look better. Available for php, javascript, golang, json, scss, less, typescript, css, clojure, ruby and html. No configuration needed, use straightaway.
 
-This package uses the https://devmind.io API.
+## Installation
+
+Installation is not needed because this package uses the https://devmind.io API, which uses the [universal code beautifier](https://github.com/LukasMeine/universal-code-beautifer) project, that's why you don't need to configure anything.
+
+but if you want to host it yourself, go to https://github.com/LukasMeine/universal-code-beautifer and follow the instructions.
+
+after you have it up and running, you will need to change the url that devmind beautifier uses to serve your beautified files
+
+so, go to the *lib/assets/devmind-beautifier.js* file and replace the following line of code for your own url
+
+    var url = "https://beautifier.devmind.io/format";
 
 Proudly released under MIT license
 
