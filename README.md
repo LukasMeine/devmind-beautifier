@@ -16,10 +16,10 @@ But if you want to host it yourself, go to https://github.com/LukasMeine/univers
 
 After you have it up and running, you will need to change the url that devmind beautifier uses to serve your beautified files.
 
-So, go to the [lib/assets/devmind-beautifier.js](lib/assets/devmind-beautifier.js) file and replace the following line of code for your own url
+So, go to the [/lib/assets/devmind-beautifier.js](/lib/assets/devmind-beautifier.js) file and replace the following line of code for your own url
 
 ```
-var url = "https://beautifier.devmind.io/format";
+var url = "https://beautifier.devmind.io/format"; //change that to your own url
 ```
 
 Proudly released under MIT license
