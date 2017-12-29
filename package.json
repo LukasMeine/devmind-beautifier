@@ -1,7 +1,7 @@
 {
   "name": "devmind-beautifier",
   "main": "./lib/devmind-beautifier",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Effortless code beautifier for atom. Supports PHP, CLOJURE, RUBY, JSON, JAVASCRIPT, CSS, GOLANG and much more. No installation or configuration needed.",
   "keywords": [
     "beautify",
