@@ -1,0 +1,33 @@
+{
+  "name": "devmind-beautifier",
+  "main": "./lib/devmind-beautifier",
+  "version": "0.0.1",
+  "description": "Effortless code beautifier for atom. Supports PHP, CLOJURE, RUBY, JSON, JAVASCRIPT, CSS, GOLANG and much more. No installation or configuration needed.",
+  "keywords": [
+    "beautify",
+    "beautifier",
+    "organize",
+    "code",
+    "php",
+    "go",
+    "golang",
+    "json",
+    "css",
+    "less",
+    "javascript",
+    "typescript",
+    "ruby",
+    "clojure"
+  ],
+  "activationCommands": {
+    "atom-workspace": "devmind-beautifier:toggle"
+  },
+  "repository": "https://github.com/LukasMeine/universal-code-beautifier",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "qs": "^6.5.1"
+  }
+}
